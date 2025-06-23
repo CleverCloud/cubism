@@ -1,6 +1,6 @@
 {
   "name": "@clevercloud/cubism",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A JavaScript library for time series visualization.",
   "keywords": [
     "time series",
